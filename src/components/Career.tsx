@@ -68,6 +68,22 @@ const Career = () => {
               Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
               (ID: 102545782OCI25AICFA). Validated expertise in AI concepts,
               machine learning workloads, and Oracle Cloud AI infrastructure.
+              <br />
+              <a
+                href="/certificates/eCertificate.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+                data-cursor="disable"
+                style={{
+                  color: "#d29bff",
+                  textDecoration: "underline",
+                  fontSize: "14px",
+                  display: "inline-block",
+                  marginTop: "6px",
+                }}
+              >
+                View Official Certificate ↗
+              </a>
             </p>
           </div>
           <div className="career-info-box">
@@ -82,6 +98,22 @@ const Career = () => {
               Completed Introduction to Generative AI Studio (Code: 9624285).
               Demonstrated skills in generative AI models, prompt engineering,
               and building enterprise AI applications.
+              <br />
+              <a
+                href="/certificates/GEN%20AI%20STUDIO.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+                data-cursor="disable"
+                style={{
+                  color: "#d29bff",
+                  textDecoration: "underline",
+                  fontSize: "14px",
+                  display: "inline-block",
+                  marginTop: "6px",
+                }}
+              >
+                View Official Certificate ↗
+              </a>
             </p>
           </div>
           <div className="career-info-box">
@@ -96,6 +128,22 @@ const Career = () => {
               Earned official Kaggle Community Member badge. Active participant in
               machine learning problem solving, datasets, and collaborative data
               science projects.
+              <br />
+              <a
+                href="/certificates/Kaggel.jpeg"
+                target="_blank"
+                rel="noopener noreferrer"
+                data-cursor="disable"
+                style={{
+                  color: "#d29bff",
+                  textDecoration: "underline",
+                  fontSize: "14px",
+                  display: "inline-block",
+                  marginTop: "6px",
+                }}
+              >
+                View Badge ↗
+              </a>
             </p>
           </div>
         </div>
