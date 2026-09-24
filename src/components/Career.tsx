@@ -15,43 +15,87 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
-              </div>
-              <h3>20XX</h3>
-            </div>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
-              </div>
-              <h3>20XX</h3>
-            </div>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Software Engineer Intern</h4>
+                <h5>Axlero Solutions</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Participating in structured 2-month project execution cycles with
+              phased 4-week implementation milestones, rigorous GitHub team branch
+              compliance, and full-cycle software delivery.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Data Analyst Intern</h4>
+                <h5>Bluestock Fintech • Remote</h5>
+              </div>
+              <h3>2026</h3>
+            </div>
+            <p>
+              Completed internship working closely with the leadership team.
+              Gained practical exposure to cloud and big data platform concepts
+              while assisting in application development using MongoDB and
+              React.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>B.Tech in CSE</h4>
+                <h5>Dr. D.Y. Patil Technical Campus, SPPU</h5>
+              </div>
+              <h3>2027</h3>
+            </div>
+            <p>
+              Bachelor of Technology in Computer Science Engineering (CGPA: 8.4)
+              at Savitribai Phule Pune University. Deep focus on Data
+              Structures, DBMS, Operating Systems, Networks, and Software
+              Engineering.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Oracle AI Foundations</h4>
+                <h5>Oracle University • Certified Associate</h5>
+              </div>
+              <h3>2025</h3>
+            </div>
+            <p>
+              Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+              (ID: 102545782OCI25AICFA). Validated expertise in AI concepts,
+              machine learning workloads, and Oracle Cloud AI infrastructure.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Generative AI Studio</h4>
+                <h5>Google Cloud & Simplilearn</h5>
+              </div>
+              <h3>2025</h3>
+            </div>
+            <p>
+              Completed Introduction to Generative AI Studio (Code: 9624285).
+              Demonstrated skills in generative AI models, prompt engineering,
+              and building enterprise AI applications.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Kaggle Member</h4>
+                <h5>Kaggle • Community Badge</h5>
+              </div>
+              <h3>2025</h3>
+            </div>
+            <p>
+              Earned official Kaggle Community Member badge. Active participant in
+              machine learning problem solving, datasets, and collaborative data
+              science projects.
             </p>
           </div>
         </div>

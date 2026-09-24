@@ -6,9 +6,11 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          Computer Science Engineering undergraduate with hands-on experience in
+          structured programming, systems analysis, and database design.
+          Practical exposure developing backend applications using Java and
+          Spring Boot, with ability to work across cloud and big data platforms,
+          ready to contribute effectively as a Software Engineer Intern.
         </p>
       </div>
     </div>

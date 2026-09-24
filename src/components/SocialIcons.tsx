@@ -1,8 +1,7 @@
 import {
   FaGithub,
-  FaInstagram,
   FaLinkedinIn,
-  FaXTwitter,
+  FaEnvelope,
 } from "react-icons/fa6";
 import "./styles/SocialIcons.css";
 import { TbNotes } from "react-icons/tb";
@@ -60,23 +59,34 @@ const SocialIcons = () => {
     <div className="icons-section">
       <div className="social-icons" data-cursor="icons" id="social">
         <span>
-          <a href="https://github.com" target="_blank">
+          <a
+            href="https://github.com/APMahajan"
+            target="_blank"
+            rel="noopener noreferrer"
+            title="GitHub: APMahajan"
+            aria-label="GitHub Profile"
+          >
             <FaGithub />
           </a>
         </span>
         <span>
-          <a href="https://www.linkedin.com" target="_blank">
+          <a
+            href="https://www.linkedin.com/in/atulpm1?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+            target="_blank"
+            rel="noopener noreferrer"
+            title="LinkedIn: Atul Mahajan"
+            aria-label="LinkedIn Profile"
+          >
             <FaLinkedinIn />
           </a>
         </span>
         <span>
-          <a href="https://x.com" target="_blank">
-            <FaXTwitter />
-          </a>
-        </span>
-        <span>
-          <a href="https://www.instagram.com" target="_blank">
-            <FaInstagram />
+          <a
+            href="mailto:atulprashantmahajan2005@gmail.com"
+            title="Email: atulprashantmahajan2005@gmail.com"
+            aria-label="Send Email"
+          >
+            <FaEnvelope />
           </a>
         </span>
       </div>

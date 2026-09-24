@@ -9,11 +9,11 @@
 }
 .social-icons {
   position: absolute;
-  left: -20px;
+  left: 0px;
   bottom: 20px;
-  display: none;
-  flex-direction: column;
-  gap: 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
   z-index: 999;
   padding: 10px;
 }
@@ -23,13 +23,15 @@
 }
 .social-icons a:hover {
   color: var(--backgroundColor);
-  /* transform: scale(1.2); */
 }
 .social-icons span {
   width: 50px;
   height: 50px;
   position: relative;
   display: flex;
+  cursor: pointer;
+  align-items: center;
+  justify-content: center;
 }
 .social-icons a {
   --siLeft: 50%;
@@ -39,9 +41,11 @@
   top: var(--siTop, 50%);
   transform: translate(-50%, -50%);
   display: flex;
-  font-size: 23px;
+  font-size: 24px;
   will-change: left, top;
   transition: transform 0.3s ease-out;
+  cursor: pointer;
+  padding: 12px;
 }
 .resume-button {
   position: absolute;
@@ -84,6 +88,8 @@ div.resume-button span {
 @media only screen and (min-width: 900px) {
   .social-icons {
     display: flex;
+    flex-direction: column;
+    left: -20px;
     gap: 20px;
   }
   .social-icons a {
